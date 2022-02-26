@@ -1,0 +1,57 @@
+<RCC>
+  <qresource prefix="pictures">
+    <file>img/satis.png</file>
+    <file>img/刷新.png</file>
+    <file>img/喇叭.png</file>
+    <file>img/userbg2.png</file>
+    <file>img/设置.png</file>
+    <file>img/图片.png</file>
+    <file>img/myinfo.png</file>
+    <file>img/qr.png</file>
+    <file>img/icon.png</file>
+    <file>img/aboutbg.png</file>
+    <file>img/问号.png</file>
+    <file>img/about.png</file>
+    <file>portrait/10.jpg</file>
+    <file>portrait/6.jpg</file>
+    <file>img/fl.png</file>
+    <file>img/resetpswd.png</file>
+    <file>img/regbg5.png</file>
+    <file>img/regbg2.png</file>
+    <file>img/regbg3.png</file>
+    <file>img/regbg4.png</file>
+    <file>img/regbg.png</file>
+    <file>img/16.jpg</file>
+    <file>img/网站.png</file>
+    <file>img/人工.png</file>
+    <file>img/logo.png</file>
+    <file>img/userbg.png</file>
+    <file>img/最小化.png</file>
+    <file>img/关  闭.png</file>
+    <file>img/密码.png</file>
+    <file>img/用户.png</file>
+    <file>img/userIF.png</file>
+    <file>img/1.jpg</file>
+    <file>img/alexander-andrews-zw07kVDaHPw-unsplash.jpg</file>
+    <file>img/bgt.png</file>
+    <file>img/bgt2.png</file>
+    <file>img/bgt3.png</file>
+    <file>img/bgt4.png</file>
+    <file>img/bgt5.png</file>
+    <file>img/bgt6.png</file>
+    <file>img/clear.png</file>
+    <file>img/cut.jpg</file>
+    <file>img/del.png</file>
+    <file>img/docu.png</file>
+    <file>img/exit.png</file>
+    <file>img/favo (2).png</file>
+    <file>img/favo.png</file>
+    <file>img/grab.png</file>
+    <file>img/menu_5dictionary.png</file>
+    <file>img/trans.png</file>
+    <file>img/transword.png</file>
+    <file>img/翻译.png</file>
+    <file>img/未标题-1.png</file>
+    <file>img/英译中.png</file>
+  </qresource>
+</RCC>
